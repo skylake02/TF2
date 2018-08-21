@@ -1,0 +1,27 @@
+# Directory Structure
+- /index.html
+- /partials
+	- /content
+		- /landing.html
+		- /roles
+			- /team_composition.html
+            - /classes
+                - /scout.html
+                - /soldier.html
+                - /pyro.html
+                - /demoman.html
+                - /heavy.html
+                - /engineer.html
+                - /medic.html
+                - /sniper.html
+                - /spy.html
+        - /mechanics
+        - /knowledge
+    - /components
+	    - /header.html
+	    - /footer.html
+- /css
+	- /style.css
+- /js
+	- /script.js
+	- /templating.js
